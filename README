@@ -1,0 +1,17 @@
+Download the Llama2 7B Chat model from Meta so that you have the following files:
+
+llama-2-7b-chat
+llama-2-7b-chat/tokenizer_checklist.chk
+llama-2-7b-chat/params.json
+llama-2-7b-chat/tokenizer.model
+llama-2-7b-chat/checklist.chk
+llama-2-7b-chat/consolidated.00.pth
+
+Then install the dependencies:
+
+python3 -m venv .env
+pip install -r requirements.txt
+
+And activate the environment:
+
+source .env/bin/activate

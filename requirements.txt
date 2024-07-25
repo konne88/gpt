@@ -1,0 +1,6 @@
+torch
+fire
+sentencepiece
+mypy
+numpy
+safetensors
